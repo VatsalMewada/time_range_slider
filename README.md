@@ -32,7 +32,7 @@ $('.time_range_slider').time_range_slider();
 ```
 Your div will look something like this
 
-![Applied time range slider on div](https://ibb.co/HN45BFf)
+![Applied time range slider on div](https://www.linkpicture.com/q/Screenshot-from-2022-05-08-12-43-51.png)
 
 
 ## Examples
