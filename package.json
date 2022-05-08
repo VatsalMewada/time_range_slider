@@ -1,0 +1,29 @@
+{
+  "name": "@vatsalmewada/time_range_slider",
+  "version": "1.0.3",
+  "description": "Slider for changing time range in inputs.",
+  "main": "time_range_slider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VatsalMewada/time_range_slider.git"
+  },
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery",
+    "DoubleTimeRangeSlider",
+    "DoubleRangeSlider",
+    "DoubleToggleSlider"
+  ],
+  "author": "Vatsal Mewada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VatsalMewada/time_range_slider/issues"
+  },
+  "homepage": "https://github.com/VatsalMewada/time_range_slider#readme"
+}
