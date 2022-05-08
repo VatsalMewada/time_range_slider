@@ -1,4 +1,4 @@
-/*  Time Range Slider - v1.0.4 - 2022-05-08
+/*  Time Range Slider - v1.0.5 - 2022-05-08
  *  https://github.com/VatsalMewada/time_range_slider
  *  https://www.npmjs.com/package/@vatsalmewada/time_range_slider
  *  Copyright Vatsal Mewada and other contributors; Licensed MIT. */
