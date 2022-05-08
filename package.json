@@ -1,6 +1,6 @@
 {
   "name": "@vatsalmewada/time_range_slider",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Slider for changing time range in inputs.",
   "main": "time_range_slider.js",
   "scripts": {
