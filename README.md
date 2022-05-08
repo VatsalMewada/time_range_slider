@@ -27,7 +27,7 @@ Suppose you have a `div` element with class `time_range_slider`:
 ```
 
 to apply this plugin on your div, you need to add following line to your script:
-```js
+```javascript
 $('.time_range_slider').time_range_slider();
 ```
 Your div will look something like this
