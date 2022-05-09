@@ -4,7 +4,7 @@ Time Range Slider makes it easier to handle time ranges.
 
 ## Prerequisites
 
-This gem depends on jQuery, so it's most useful in a project where you are already using jQuery.
+This package depends on jQuery, so it's most useful in a project where you are already using jQuery.
 
 ## Installation
 
@@ -14,7 +14,7 @@ Inside your project environment in your terminal run the following:
 npm i @vatsalmewada/time_range_slider
 ```
 
-Inside your project, you should add
+then you should add
 
     require("jquery")
     require("@vatsalmewada/time_range_slider")
@@ -52,11 +52,27 @@ $('.time_range_slider').time_range_slider();
 ![Applied time range slider on div](https://www.linkpicture.com/q/Screenshot-from-2022-05-09-10-37-19.png)
 
 
+## Plugin Properties
+
+Name |	Description 
+-----------------|------
+main_sel    | To put custom class name as a selector for `main div`	
+start_time_sel    | To put custom class name as a selector for `start_time input`	
+end_time_sel    | To put custom class name as a selector for `end_time input`	
+start_time    | To put default start_time. e.g. `6:30`	
+end_time    | To put default end_time. e.g. `17:00`	  
+
 ## Examples
 
-## Contributors
-
-## Todo
+```javascript
+$( ".vatsal" ).time_range_slider({
+    main_sel: '.vatsal',                 // For custom `main div`
+    start_time_sel: '.start_time_input', // For custom `start_time input`
+    end_time_sel: '.end_time_input',     // For custom `end_time input`
+    start_time: '6:30',                  // For custom `start_time`
+    end_time: '17:00',                   // For custom `end_time`
+});
+```
 
 ## Copyright
 
